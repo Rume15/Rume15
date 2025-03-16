@@ -17,17 +17,15 @@
   
         
 ---
-
 ## 🚀 Featured Projects:
 
-| 🧠 Project                                      | 🚀 Description                                                            | 🔗 Link                                                      |
-|-------------------------------------------------|--------------------------------------------------------------------------|-------------------------------------------------------------|
-| **Multi-Agent Sales Intelligence System**       | AI-driven multi-agent system for business sales insights & predictions.  | [View Project](https://github.com/Rume15/sales-intelligence) |
-| **Agentic Credit Scoring AI**                   | AI agents for dynamic credit risk modeling and scoring.                   | [View Project](https://github.com/Rume15/credit-agents) |
-| **Generative AI RAG Chatbot**                   | Context-aware chatbot with **Agentic RAG** & LangChain.                   | [View Project](https://github.com/Rume15/genai-chatbot) |
-| **Computer Vision Inventory Monitor**           | AI CV system for real-time inventory & stock management.                  | [View Project](https://github.com/Rume15/cv-inventory) |
-| **NLP Summarization & Insights Engine**         | NLP engine for **NER, Topic Modeling, Summarization**, and Analytics.    | [View Project](https://github.com/Rume15/nlp-engine) |
-
+| 🧠 Project                                                   | 🚀 Description                                                                                         | 🔗 Link                                                      |
+|-------------------------------------------------------------|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
+| **Inventory Optimization Agentic System**                   | AI agent system for analyzing and optimizing inventory using **Agno Framework**.                      | [View Project](#)                                           |
+| **Policies Agentic RAG**                                    | Retrieval-Augmented Generation (RAG) AI agent for querying organizational policies using **LangChain**. | [View Project](#)                                           |
+| **New York Taxi Fare Prediction**                          | ML model for predicting taxi fares using **Gradient Boosting Machines (GBM)** on NYC trip data.       | [View Project](#)                                           |
+| **Data Analysis App**                                       | Interactive web app for dynamic data analysis and visualizations built with **React**.                 | [View Project](#)                                           |
+| **Image Classification on Cote D'Ivoire Animal Dataset**    | Deep learning model for animal classification using **Convolutional Neural Networks (CNN)**.          | [View Project](#)                                           |
 ---
 
 ## 🛠️ Tech Stack & Tools:
