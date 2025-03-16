@@ -1,9 +1,8 @@
 <h1 align="center">👋 Hi, I'm Rodgers Rume — AI/ML Engineer</h1>
 
 <p align="center">
-  🚀 Building AI Agents, Generative AI, NLP, Computer Vision, and MLOps solutions.<br>
-  🧠 Creating Predictive ML Systems like Credit Risk & Customer Churn Models.<br>
-  ⚙️ Focused on real-world AI, Multi-Agent Systems, and GenAI Ops.
+  🚀 Building AI Agents, Generative AI,Predictive ML models,  NLP, Computer Vision, and MLOps solutions.<br>
+  <em>💡 "Don’t just automate — create intelligent AI agents that act and learn."</em>
 </p>
 
 ---
@@ -13,11 +12,10 @@
 - 🤖 **AI Agent Architect** specialized in **Agentic RAG** and **Multi-Agent Systems**.
 - 🛠️ Builder of **Predictive ML Solutions** (Credit Risk, Customer Churn, and Business Analytics).
 - 🧠 Experienced in **NLP** (NER, Topic Modeling, Summarization) & **Computer Vision** (Object Detection, Image Classification).
-- ⚙️ MLOps & **GenAI Ops** enthusiast, crafting **end-to-end AI pipelines** and intelligent agents.
-- 🔍 Focused on **LLM-based solutions, AI productization, and automation**.
+- ⚙️ Currently working on **MLOps** & **GenAI Ops**, crafting **end-to-end AI pipelines**.
 - 🌍 Open to **collaborations** on AI/ML/GenAI projects that deliver real business value.
-- 💡 *"Don’t just automate — create intelligent AI agents that act and learn."*
-
+  
+        
 ---
 
 ## 🚀 Featured Projects:
@@ -43,7 +41,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-3B3B3B?style=for-the-badge&logo=langchain&logoColor=white)
 ![AutoGen](https://img.shields.io/badge/AutoGen-3B3B3B?style=for-the-badge&logoColor=white)
 ![Agno](https://img.shields.io/badge/Agno_Framework-3B3B3B?style=for-the-badge&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge&logo=huggingface&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### ⚙️ MLOps & GenAI Ops:
@@ -65,13 +62,8 @@
 - ✅ **Predictive ML**: Credit Risk, Customer Churn, Sales & Inventory Predictions.
 - ✅ **Generative AI & LLM**: Chatbots, Content Generation, Conversational AI.
 - ✅ **MLOps & GenAI Ops**: End-to-end pipelines, model serving, deployment, monitoring.
-- ✅ **Natural Language Processing (NLP)**:
-  - Named Entity Recognition (NER)
-  - Topic Modeling & Text Summarization
-  - Business Insights & Analytics
-- ✅ **Computer Vision (CV)**:
-  - Object Detection, Image Classification, Segmentation.
-  - Real-time Inventory & Retail Solutions.
+- ✅ **Natural Language Processing (NLP)**: Topical Modelling, NER, Text summarization
+- ✅ **Computer Vision (CV)**: Object Detection, Image Classification
 
 ---
 
